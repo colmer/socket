@@ -1,0 +1,17 @@
+{
+  "name": "studwork-node",
+  "version": "0.0.1",
+  "description": "sockets for studwork",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anton Sitnikov",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^1.25.1",
+    "koa": "^2.2.0",
+    "koa-bodyparser": "^4.1.0",
+    "koa-logger": "^2.0.1"
+  }
+}
